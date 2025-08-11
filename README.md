@@ -1,5 +1,5 @@
 
-just testin# random_joke.p
+just testin# random_joke.py
 import random
 
 jokes = [
